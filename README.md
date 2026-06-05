@@ -166,22 +166,27 @@ This helps healthcare providers identify patients requiring immediate attention.
 ### 1. Histogram
 
 **Age Distribution**
+<img width="728" height="529" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/a5ff2a6f-dc33-4b16-8a78-94887dfd05ad" />
+
 
 * Shows the distribution of patient ages.
 
 ### 2. Bar Chart
+<img width="737" height="620" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/d167b58a-a586-46f8-af23-6138d84de14b" />
 
 **Risk Level Distribution**
 
 * Displays the count of Low, Medium, and High Risk patients.
 
 ### 3. Pie Chart
+<img width="547" height="500" alt="percentage hc" src="https://github.com/user-attachments/assets/e4720f54-c2ac-434b-8f25-1be4f22edb60" />
 
 **Risk Percentage**
 
 * Shows the percentage of patients in each risk category.
 
 ### 4. Scatter Plot
+<img width="731" height="575" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/4f358f7c-9054-4436-a3c7-d4195dc2eb11" />
 
 **Age vs Blood Pressure**
 
@@ -190,12 +195,14 @@ This helps healthcare providers identify patients requiring immediate attention.
 ### 5. Box Plot
 
 **Cholesterol Outliers**
+<img width="709" height="567" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/a6cfd475-1410-4f69-8668-6e830cc62614" />
 
 * Identifies extreme cholesterol values.
 
 ### 6. Correlation Heatmap
 
 **Feature Relationships**
+<img width="967" height="661" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/91dd13a0-fb1c-4431-a586-df0a339a7ba9" />
 
 * Displays correlations among:
 
